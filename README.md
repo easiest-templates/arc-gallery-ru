@@ -1,4 +1,4 @@
-# VisualArc — Галерея изображений
+# Галерея изображений
 
 ![Preview](https://cdn.poehali.dev/templates/arc-gallery-ru/preview-ru.jpg)
 
@@ -10,17 +10,5 @@
 
 Шаблон готов к использованию сразу после установки — просто добавьте свои изображения в папку public и укажите их в коде.
 
-## Установка
-
-```bash
-npm install
-npm run dev
-```
-
-## Технологии
-
-- React + TypeScript
-- Tailwind CSS
-- Vite
 
 `"tags": ["portfolio", "dark", "creative", "animations"]`
