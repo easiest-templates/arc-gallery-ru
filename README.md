@@ -11,4 +11,4 @@
 Шаблон готов к использованию сразу после установки — просто добавьте свои изображения в папку public и укажите их в коде.
 
 
-`"tags": ["portfolio", "dark", "creative", "animations"]`
+`"tags": ["portfolio", "creative", "animations"]`
